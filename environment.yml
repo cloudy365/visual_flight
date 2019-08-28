@@ -67,5 +67,3 @@ dependencies:
   - wheel=0.33.4=py27_0
   - xlrd=1.2.0=py27_0
   - zlib=1.2.11=h1de35cc_3
-prefix: /Users/yizhe/anaconda2/envs/basemap
-
