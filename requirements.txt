@@ -1,0 +1,6 @@
+basemap
+basemap-data-hires
+matplotlib
+numpy
+pandas
+xlrd
