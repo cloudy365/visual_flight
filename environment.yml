@@ -1,0 +1,10 @@
+name: basemap
+channels:
+  - defaults
+dependencies:
+  - basemap=1.2.0
+  - basemap-data-hires=1.2.0
+  - python=2.7
+  - pip:
+    - -r requirements.txt
+
